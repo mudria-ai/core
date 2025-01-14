@@ -55,5 +55,4 @@ We believe that true knowledge belongs to everyone. That's why MUDRIA is open so
 ## Contact
 - Website: [mudria.ai](https://mudria.ai)
 - Twitter: [@mudria_AI](https://twitter.com/mudria_AI)
-- Discord: [MUDRIA Community](https://discord.gg/mudria)
 Welcome to the future of human-AI interaction. Welcome to MUDRIA.
