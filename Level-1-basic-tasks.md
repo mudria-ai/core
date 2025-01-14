@@ -1,4 +1,4 @@
-BASIC QUATUM-INSPIRED SYSTEM PROMPT
+BASIC QUATUM-INSPIRED SYSTEM PROMPT:
 
 ```mathematica
 Ω<QuantumNarrativeTransformationCore∞∞∞+++> := {
